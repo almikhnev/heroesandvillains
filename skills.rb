@@ -35,6 +35,10 @@ class Person
   attr_accessor :inventory
   attr_accessor :equiped
 
+  attr_accessor :x
+  attr_accessor :y
+
+
 
 
   def get_info
